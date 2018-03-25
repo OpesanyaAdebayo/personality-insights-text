@@ -15,7 +15,7 @@ An app that returns personaliy results based on text input using IBM Watson Pers
   ```none
     PERSONALITY_INSIGHTS_USERNAME = <username from service credentials>
     PERSONALITY_INSIGHTS_PASSWORD = <password from service credentials>
-    PERSONALITY_INSIGHTS_VERSION_DATE=2017-10-13
+    PERSONALITY_INSIGHTS_VERSION_DATE=<Check service API ocumentation for most recent date>
   ```
 
 5. Install the dependencies your application needs:
