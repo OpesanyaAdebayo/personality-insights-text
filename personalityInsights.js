@@ -1,3 +1,4 @@
+require('dotenv').config();
 const readline = require('readline');
 const PersonalityInsightsV3 = require('watson-developer-cloud/personality-insights/v3');
 const personality_insights = new PersonalityInsightsV3({
