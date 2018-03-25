@@ -18,6 +18,7 @@
   "homepage": "https://github.com/OpesanyaAdebayo/personality-insights-text#readme",
   "dependencies": {
     "dotenv": "^5.0.1",
+    "personality-text-summary": "^2.2.0",
     "watson-developer-cloud": "^3.2.1"
   }
 }
