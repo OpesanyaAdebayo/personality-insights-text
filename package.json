@@ -1,0 +1,23 @@
+{
+  "name": "personality-insights-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpesanyaAdebayo/personality-insights-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpesanyaAdebayo/personality-insights-text/issues"
+  },
+  "homepage": "https://github.com/OpesanyaAdebayo/personality-insights-text#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "watson-developer-cloud": "^3.2.1"
+  }
+}
